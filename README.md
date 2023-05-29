@@ -1,2 +1,2 @@
-# API_Deobfuscation
-API_Deobfuscation temporary repository
+# Generic API_Deobfuscation
+Generic API_Deobfuscation temporary repository
