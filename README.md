@@ -1,5 +1,5 @@
 # Generic API_Deobfuscation
-Generic API_Deobfuscation temporary repository.
+GUARD temporary repository.
 
 As part of the submission, we would like to share the executable files, experiment files, and results for review purposes. We believe that providing access to these materials will enhance the evaluation process and enable a better understanding of the work presented in the paper.
 
